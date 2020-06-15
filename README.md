@@ -1,2 +1,2 @@
-# LWLC-cryptocurrency
+# LWLC-crypto
 The first experimental Włodawa cryptocurrency
