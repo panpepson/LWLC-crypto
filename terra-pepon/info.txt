@@ -1,0 +1,21 @@
+
+{
+    "name": "PEPSON TOKEN",
+    "symbol": "PEPON",
+    "decimals": 3,
+    "initial_balances": [
+        {
+            "address": "terra1t3wpjg3xezj4gw4unctvrt5jm6dw2f2h34nlfr",
+            "amount": "12000000000"
+        }
+    ]
+}
+
+
+
+GIT - 
+https://finder.terra.money/mainnet/tx/07ABDA375C0C0014E0E6C88E863604A973A5CB614E595E9F00A5F568F3EA378F
+
+PEPON
+https://terrascope.info/testnet/tx/07ED476982BDFA8B6AC4B2374FC1EE70F23A937A463340E86E6F2280D9DF592C
+terra1vmua59zm6fplqkf9hfjmdj2utdjh45arx6aqcj
