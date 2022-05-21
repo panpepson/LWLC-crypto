@@ -19,3 +19,14 @@ https://finder.terra.money/mainnet/tx/07ABDA375C0C0014E0E6C88E863604A973A5CB614E
 PEPON
 https://terrascope.info/testnet/tx/07ED476982BDFA8B6AC4B2374FC1EE70F23A937A463340E86E6F2280D9DF592C
 terra1vmua59zm6fplqkf9hfjmdj2utdjh45arx6aqcj
+
+
+
+   terra1vmua59zm6fplqkf9hfjmdj2utdjh45arx6aqcj: {
+      protocol: "Pepon",
+      symbol: "PEPON",
+      name: "PEPSON TOKEN",
+      token: "terra1vmua59zm6fplqkf9hfjmdj2utdjh45arx6aqcj",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 3
+    },
